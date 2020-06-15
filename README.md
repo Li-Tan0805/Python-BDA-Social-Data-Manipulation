@@ -1,1 +1,2 @@
-# Python-Data-BDA-Social-Data-Manipulation
+# Purpose
+Merge Facebook, Pinterest data across different brands
